@@ -29,7 +29,7 @@ The most compact board for the ESP-01 format to control LEDs using the WLED firm
 * PCB files & BOM available soon 
 
 ## 💸 How to buy
-* Wled controller with ESP-01 integrated with latest firmware version flashed and configured, you just have to connect it to the power supply and solder your led strip [AVAILABLE on Ebay]()
+* Wled controller with ESP-01 integrated with latest firmware version flashed and configured, you just have to connect it to the power supply and solder your led strip (COMING SOON)
 * Wled controller configured + soldered led strip (COMING SOON)
 * Plug&play programming cable (COMING SOON)
 
