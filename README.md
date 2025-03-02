@@ -2,6 +2,8 @@
 # ESP01 WLED ADAPTER
 The most compact board for the ESP-01 format to control LEDs using the WLED firmware.
 
+<img src="https://github.com/BiagioFerri/wled_esp01_adapter/blob/main/images/boardSide.jpg" width="300" height="300"> <img src="https://github.com/BiagioFerri/wled_esp01_adapter/blob/main/images/esp01side.jpg" width="300" height="300">
+
 ## ⚙️ Features
 * 5V or 12V power supply
 * Up to 2A of power
